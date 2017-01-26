@@ -1,1 +1,10 @@
 https://cloud.skytap.com/vms/ebba6146d1fc50aed2b9c4db99d26430/desktops
+
+git-school.github.io/visualizing-git/
+git merge --abort
+- pretends like the merge never happened
+
+git rebase
+- just to alter the commits made
+
+ci group on dlife by art butler
